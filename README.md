@@ -8,7 +8,7 @@
 
 另外还有3款免费的网络游戏加速器推荐，其中一款可24小时免费加速 Aion2 国际服，包含日服、美服、台服（中国）等。
 
-玩家交流群 2群 1080184873 1群 1124021357。
+玩家交流群 2群 1080184873 1群 1124021357。国内工具发布下载页 https://www.kdocs.cn/l/cf9KkRNTpqhb
 
 ***
 
@@ -28,5 +28,7 @@
 ***
 
 ### ⬇️ 下载地址
+
+https://www.kdocs.cn/l/cf9KkRNTpqhb
 
 https://github.com/nanhezzb/A2Tools/releases/latest
