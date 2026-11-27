@@ -16,7 +16,7 @@
         ]
     },
     "client_update": {
-        "latest_client_version": "3.0.0.1",
+        "latest_client_version": "3.0.1.0",
         "min_required_version": "3.0.0.0",
         "client_download_url_minor": "https://github.com/nanhezzb/A2Tools/releases/latest",
         "client_download_url_main": "https://www.kdocs.cn/l/cf9KkRNTpqhb",
